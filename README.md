@@ -34,3 +34,5 @@ Static are shooting when the raycasthit check if the hit object is the player
 The moving enemies go in they go in the opposite direction of the player and respawn in the SpawnRunEnemy points.
 
 The project have the all necessary script to scalable, Spawners, Enemies Stats, Player Stats, Game Timer, Sound FX Controller, Scene Controller.
+
+Canvas use Canvas Scaler with Match Widht or Height, so is adaptive to all resolutions.
